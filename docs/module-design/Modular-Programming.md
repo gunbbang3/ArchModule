@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Modular Programming
-nav_order: 9
+parent: UI Components
+nav_order: 1
 ---
 
 # 객체지향 프로그래밍: 모듈화 프로그래밍이란?
