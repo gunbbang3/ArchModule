@@ -1,6 +1,6 @@
 ---
 layout: default
-title: module design
+title: Module design
 nav_order: 9
 has_children: true
 permalink: /docs/module-design

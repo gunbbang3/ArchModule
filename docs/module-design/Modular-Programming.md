@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modular Programming
-parent: UI Components
+parent: module-design
 nav_order: 1
 ---
 
