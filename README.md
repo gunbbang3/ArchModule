@@ -1,68 +1,89 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions?query=workflow%3A%22Master+branch+CI%22"><img src="https://github.com/pmarsceill/just-the-docs/workflows/Master%20branch%20CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Docs is a premium documentation Jekyll theme
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+Desk was developed by [Unbound Studio](https://unbound.studio).
 
 ## Installation
 
-Add this line to your Jekyll site's Gemfile:
+Install the dependencies with [Bundler](http://bundler.io/):
 
-```ruby
-gem "just-the-docs"
+```bash
+bundle install
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+Run the following to generate your site:
+```bash
+bundle exec jekyll serve
+```
 
+You can find more on [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+## Setup
+
+### Site and author details
+Add your site and author details in `_config.yml`:
 ```yaml
-theme: just-the-docs
+# Site title and description
+title:              Docs
+description:        Documentation Jekyll theme.
+lang:               en
+
+# Site subpath, e.g. /blog
+baseurl:            ""
+
+# Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:title/
+
+# Site base hostname & protocol, e.g. http://example.com
+url:                ""
+
+# Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
+logo:               
+
+navbar:
+  search:           true;
+  
+# Default author settings
+author:
+    name:           Pete Seth
+    title:          Lead Developer  
+    avatar:         avatar-tom.png
 ```
 
-And then execute:
+## Customization
 
-    $ bundle
+To modify the primary color, open `/_sass/theme/variables.scss` and replace the color values e.g.:
 
-Or install it yourself as:
+```scss
+$global-primary-background:                   #05c896;
+```
 
-    $ gem install just-the-docs
-
-## Usage
-
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+Further style customisation can be done in the following files:
+```
+/_sass/theme/mixins.scss
+/_sass/theme/variables.scss
+/assets/css/main.scss
+```
 
 ## Development
 
-To set up your environment to develop this theme, run `bundle install`.
+Install [UIkit](https://getuikit.com/) font end framework dependency via Npm:
+```bash
+npm install
+```
+Enable live browser reload with the following:
+```bash
+bundle exec jekyll s --livereload
+```
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+## Credits and Sources
 
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
+- Google analytics https://www.google.com/analytics/
+- Google maps https://www.google.com/maps
+- UIkit front end framework https://getuikit.com/
+- Jekyll CML https://jekyllrb.com/
 
-## License
+## Support
+Customer support is provided through our Envato item page [contact form](https://themeforest.net/item/docs-responsive-documentation-manual-jekyll-theme/21131076/support) for up to six months from the purchase date and is provided Monday to Friday during the business week. We aim to answer all support requests daily, most are handled within 24h.
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+## Documentation
+Full documentation can be found here: [https://jekyll-theme-docs.netlify.com/docs/installation/](https://jekyll-theme-docs.netlify.com/docs/installation/).
