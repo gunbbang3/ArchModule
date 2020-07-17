@@ -1,4 +1,4 @@
-- title: Getting Started
+- title: Module Design
   docs:
   - installation
   - setup
@@ -8,8 +8,9 @@
   - docs
   - comments
   - analytics
+  - ModularProgramming
 
-- title: Theme Features
+- title: SW Arch Design
   docs:
   - hero
   - boxes
