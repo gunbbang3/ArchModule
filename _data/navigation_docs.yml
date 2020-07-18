@@ -1,14 +1,10 @@
 - title: Module Design
   docs:
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
   - ModularProgramming
+  - CodeTemplate
+  - Includes
+  - LibExample
+  - ScopeLifeTime
 
 - title: SW Arch Design
   docs:
