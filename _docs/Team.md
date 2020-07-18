@@ -1,5 +1,5 @@
 ---
-title: Team members section
+title: Team member
 subtitle: This is a subtitle position
 tags: [features]
 author: andy

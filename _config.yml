@@ -29,18 +29,18 @@ navbar:
 author:
     name:           Wootaik Lee
     title:          Owner
-    avatar:         avatar-wootaik.png
+    avatar:         avartar-wootaik.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     wootaik:
       name:         Wootaik Lee
       title:        Owner
-      avatar:       avatar-wootaik.png
+      avatar:       avartar-wootaik.png
     andy:
       name:         Andy Park
       title:        Support
-      avatar:       avatar-andy.png
+      avatar:       avartar-andy.png
 
 # Social icons displayed in footer
 social:
