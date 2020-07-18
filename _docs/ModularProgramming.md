@@ -158,19 +158,19 @@ author: wootaik
 
 * MoBeE: Data flow diagram
 
-![ModularProgramming-MoBeE_Dataflow](assets/images/ModularProgramming-MoBeE_Dataflow.svg)
+![ModularProgramming-MoBeE_Dataflow](/assets/images/ModularProgramming-MoBeE_Dataflow.svg)
 
 
 
 * MoBeE: Procedure-oriented Design
 
-![ModularProgramming-MoBeE_PODesign](assets/images/ModularProgramming-MoBeE_PODesign.svg)
+![ModularProgramming-MoBeE_PODesign](/assets/images/ModularProgramming-MoBeE_PODesign.svg)
 
 
 
 * MoBeE: Object-oriented Design
 
-![ModularProgramming-MoBeE_OODesign](assets/images/ModularProgramming-MoBeE_OODesign.svg)
+![ModularProgramming-MoBeE_OODesign](/assets/images/ModularProgramming-MoBeE_OODesign.svg)
 
 
 
@@ -198,13 +198,13 @@ author: wootaik
 
 * 2단계 가시성을 갖는 모듈과 구성 요소
 
-![ModularProgramming-ModuleElements](assets/images/ModularProgramming-ModuleElements.svg)
+![ModularProgramming-ModuleElements](/assets/images/ModularProgramming-ModuleElements.svg)
 
 
 
 ### C source vs. Header
 
-![ModularProgramming-ModuleSection](assets/images/ModularProgramming-ModuleSection.svg)
+![ModularProgramming-ModuleSection](/assets/images/ModularProgramming-ModuleSection.svg)
 
 
 
@@ -226,7 +226,7 @@ author: wootaik
 
 
 
-![ModularProgramming-DataSharing](assets/images/ModularProgramming-DataSharing.svg)
+![ModularProgramming-DataSharing](/assets/images/ModularProgramming-DataSharing.svg)
 
 * `ErrorCode` in Application Object
 
@@ -249,11 +249,11 @@ author: wootaik
 
 ### 예제
 
-![ModularProgramming-MoBeE_AppModule](assets/images/ModularProgramming-MoBeE_AppModule.svg)
+![ModularProgramming-MoBeE_AppModule](/assets/images/ModularProgramming-MoBeE_AppModule.svg)
 
 ### Exercise
 
-![ModularProgramming-DataSharing](assets/images/ModularProgramming-DataSharing.svg)
+![ModularProgramming-DataSharing](/assets/images/ModularProgramming-DataSharing.svg)
 
 * 위의 예제에서 Application Object, Actuator Object, Global Variable Object 를 2단계 가시성을 갖는 모듈로 설계해 보세요.
 
