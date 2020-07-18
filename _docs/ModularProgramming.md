@@ -249,7 +249,7 @@ author: wootaik
 
 ### 예제
 
-![ModularProgramming-MoBeE_AppModule](/assets/images/ModularProgramming-MoBeE_AppModule.svg)
+{% include image.html img="ModularProgramming-MoBeE_AppModule.svg" alt="Alt for image" caption="ModularProgramming-MoBeE_AppModule" %}
 
 ### Exercise
 
