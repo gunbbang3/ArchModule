@@ -1,5 +1,5 @@
 ---
-title: sw Arch Framework
+title: SW Arch Framework
 subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
 tags: [arch]
 author: wootaik
