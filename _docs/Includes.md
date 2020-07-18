@@ -1,6 +1,6 @@
 ---
 title: Header include structure
-subtitle: Subtitle 자리 입니다.
+subtitle: This is a subtitle position
 tags: [module]
 author: wootaik
 ---

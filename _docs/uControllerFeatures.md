@@ -1,6 +1,6 @@
 ---
 title: Micom Features
-subtitle: SubTitle 자리입니다.
+subtitle: This is a subtitle position
 tags: [arch]
 author: wootaik
 ---

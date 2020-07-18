@@ -1,6 +1,6 @@
 ---
 title: Team members section
-subtitle:SubTitle 자리 입니다.
+subtitle: This is a subtitle position
 tags: [features]
 author: andy
 ---

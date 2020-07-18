@@ -1,6 +1,6 @@
 ---
 title: Code Template
-subtitle: SubTitle 자리 입니다.
+subtitle: This is a subtitle position
 tags: [module]
 author: wootaik
 

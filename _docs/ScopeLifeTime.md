@@ -1,6 +1,6 @@
 ---
 title: Scope and life time
-subtitle: SubTitle 자리 입니다.
+subtitle: This is a subtitle position
 tags: [module]
 author: wootaik
 ---

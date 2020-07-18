@@ -1,6 +1,6 @@
 ---
 title: Scheduling
-subtitle: SubTitle 자리 입니다.
+subtitle: This is a subtitle position
 tags: [arch]
 author: wootaik
 ---
