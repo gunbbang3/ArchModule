@@ -35,6 +35,8 @@ author: wootaik
 
 * [객체지향 프로그래밍이란?](https://drive.google.com/file/d/1WJAGiKlqxzWe2TsnW8NSQY8y_lNfE7ik/preview)
 
+{% include videos.html columns="2" title="Object-oriented programming" subtitle="Watch screencasts to get you started fast with Jekyll" %}
+
 * [모듈화 설계 방법](https://drive.google.com/file/d/1OR9xyQEB8eNbtNHmGtTy9i8KALeAXLLf/preview)
 
 
