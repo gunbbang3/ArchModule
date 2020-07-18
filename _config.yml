@@ -28,18 +28,18 @@ navbar:
 # Default author settings
 author:
     name:           Wootaik Lee
-    title:          주인장
+    title:          Owner
     avatar:         avatar-wootaik.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
     wootaik:
       name:         Wootaik Lee
-      title:        주인장
+      title:        Owner
       avatar:       avatar-wootaik.png
     andy:
       name:         Andy Park
-      title:        ?
+      title:        Support
       avatar:       avatar-andy.png
 
 # Social icons displayed in footer
