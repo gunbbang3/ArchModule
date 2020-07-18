@@ -2,7 +2,7 @@
 title: Code Template
 subtitle: SubTitle 자리 입니다.
 tags: [module]
-author: Wootaik Lee
+author: wootaik
 
 ---
 

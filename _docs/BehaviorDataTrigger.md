@@ -2,7 +2,7 @@
 title: Behavior, Data, Trigger
 subtitle: Subtitle 자리 입니다.
 tags: [arch]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 동작과 자료, 그리고 트리거

@@ -3,7 +3,7 @@
 title: Modular programming
 subtitle: SubTitle 자리 입니다.
 tags: [module]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 객체지향 프로그래밍: 모듈화 프로그래밍이란?

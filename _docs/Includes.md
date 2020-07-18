@@ -2,7 +2,7 @@
 title: Header include structure
 subtitle: Subtitle 자리 입니다.
 tags: [module]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 헤더파일의 인클루드 구조

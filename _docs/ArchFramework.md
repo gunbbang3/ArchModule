@@ -2,7 +2,7 @@
 title: SW Arch Framework
 subtitle: sub title 자리 입니다.
 tags: [arch]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 소프트웨어 구조와 프래임워크

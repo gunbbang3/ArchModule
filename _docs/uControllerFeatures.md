@@ -2,7 +2,7 @@
 title: Micom Features
 subtitle: SubTitle 자리입니다.
 tags: [arch]
-author: Wootaik Lee
+author: wootaik
 ---
 
 

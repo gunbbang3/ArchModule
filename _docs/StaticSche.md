@@ -2,7 +2,7 @@
 title: Scheduling
 subtitle: SubTitle 자리 입니다.
 tags: [arch]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 운영체계와 스케쥴링

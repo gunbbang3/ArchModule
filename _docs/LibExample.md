@@ -2,7 +2,7 @@
 title: Library design example
 subtitle: Subtitle 자리 입니다.
 tags: [module]
-author: Wootaik Lee
+author: wootaik
 ---
 
 # 라이브러리 예제
