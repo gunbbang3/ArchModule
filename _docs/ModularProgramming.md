@@ -1,7 +1,8 @@
 ---
-title: ModularProgramming.md
-author: Wootaik Lee (wootaik@gmail.com)  
-date: 2020-03-01
+title: Modular programming
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [module]
+author: wootaik
 ---
 
 # 객체지향 프로그래밍: 모듈화 프로그래밍이란?
@@ -10,7 +11,7 @@ date: 2020-03-01
 
 ## 시작하는 질문
 
-객체지향 프로그래밍은 무엇일까? 
+객체지향 프로그래밍은 무엇일까?
 
 객체지향 프로그래밍은 객체지향 프로그램 언어(C++, Java 같은) 를 사용해야만 한다?
 
@@ -88,15 +89,15 @@ date: 2020-03-01
 
 * 객체지향 소프트웨어의 중요한 개념
     * 소프트웨어를 **실생활의 객체로 구조화** 하는 것이다.
-        * 객체란 실제로 물리적인 객체에 근거하여 정의하는 것이 좋다. 
+        * 객체란 실제로 물리적인 객체에 근거하여 정의하는 것이 좋다.
         * 마이크로콘트롤러 시스템에서; 센서, 스위치, 액츄에이터, 필터, 적분기 등등
     * **자료와 함수(혹은 메소드)**는 객체의 중요 구성 요소이고 **명확한 경계**를 자기고 있어야 한다.
         * 객체에 접근하기 위하여 **정의된 인터페이스**를 가지고 있어야 한다. 인터페이스의 종류와 그 내용이 명확해야 한다.
-    * 정보의 **은닉성**은 철저히 지켜야 한다. 
+    * 정보의 **은닉성**은 철저히 지켜야 한다.
         - 외부에서 접근해야 하는 것은 인터페이스를 갖도록 하고
         - 그럴 필요가 없는 자료들은 철저히 숨겨져야 한다.
 
-    
+
 
 * 객체의 예: 사무실 의자
 
@@ -129,7 +130,7 @@ date: 2020-03-01
 
 
 
-**[핵심]** 
+**[핵심]**
 
 * **객체지향 언어**를 사용했다고 해서 객체지향적인 소프트웨어가 되는 것은 아니다.
 
@@ -146,7 +147,7 @@ date: 2020-03-01
     * 자료의 **변환과정**에 집중하여 설계하는 방법
     * 제어흐름을 구성하는 것이 소프트웨어 설계
     * 제어흐름 자체가 소프트웨어의 구조가 됨
-* 객체지향 설계법: 
+* 객체지향 설계법:
   * 변환되는 **자료**에 집중하여 설계하는 방법
   * 자료흐름을 구성하는 것이 중요
   * 자료흐름 중심으로 소프트웨어 구조 생성
@@ -157,19 +158,19 @@ date: 2020-03-01
 
 * MoBeE: Data flow diagram
 
-![ModularProgramming-MoBeE_Dataflow](images/ModularProgramming-MoBeE_Dataflow.svg)
+![ModularProgramming-MoBeE_Dataflow](assets/images/ModularProgramming-MoBeE_Dataflow.svg)
 
 
 
 * MoBeE: Procedure-oriented Design
 
-![ModularProgramming-MoBeE_PODesign](images/ModularProgramming-MoBeE_PODesign.svg)
+![ModularProgramming-MoBeE_PODesign](assets/images/ModularProgramming-MoBeE_PODesign.svg)
 
 
 
 * MoBeE: Object-oriented Design
 
-![ModularProgramming-MoBeE_OODesign](images/ModularProgramming-MoBeE_OODesign.svg)
+![ModularProgramming-MoBeE_OODesign](assets/images/ModularProgramming-MoBeE_OODesign.svg)
 
 
 
@@ -190,20 +191,20 @@ date: 2020-03-01
 * 모듈 구현을 위해서 여러 파일로 프로그래밍 하는 방법을 알아야 한다.
     * C 와 Header 로 구분하는 방법
     * 모듈간 인터페이스 하는 방법
-    * 변수와 함수의 Scope 와 Life-time 
+    * 변수와 함수의 Scope 와 Life-time
     * 체계적인 인클루드 방법
 
-    
+
 
 * 2단계 가시성을 갖는 모듈과 구성 요소
 
-![ModularProgramming-ModuleElements](images/ModularProgramming-ModuleElements.svg)
+![ModularProgramming-ModuleElements](assets/images/ModularProgramming-ModuleElements.svg)
 
 
 
 ### C source vs. Header
 
-![ModularProgramming-ModuleSection](images/ModularProgramming-ModuleSection.svg)
+![ModularProgramming-ModuleSection](assets/images/ModularProgramming-ModuleSection.svg)
 
 
 
@@ -213,19 +214,19 @@ date: 2020-03-01
 
     * Data와 Data를 생성하는 함수를 묶는 방법
     * Data와 Data를 사용하는 함수를 묶는 방법
-    
+
 * Data들만 모아서 묶는 방법
-  
+
 * Data 공유 방법
 
-    * 전역변수 
+    * 전역변수
 
     * 인터페이스 함수
 
-        
-    
 
-![ModularProgramming-DataSharing](images/ModularProgramming-DataSharing.svg)
+
+
+![ModularProgramming-DataSharing](assets/images/ModularProgramming-DataSharing.svg)
 
 * `ErrorCode` in Application Object
 
@@ -242,24 +243,20 @@ date: 2020-03-01
     * `enuState` 혹은
     * `GetState()` 와 `SetState()`
 
-    
+
 
 
 
 ### 예제
 
-![ModularProgramming-MoBeE_AppModule](images/ModularProgramming-MoBeE_AppModule.svg)
+![ModularProgramming-MoBeE_AppModule](assets/images/ModularProgramming-MoBeE_AppModule.svg)
 
 ### Exercise
 
-![ModularProgramming-DataSharing](images/ModularProgramming-DataSharing.svg)
+![ModularProgramming-DataSharing](assets/images/ModularProgramming-DataSharing.svg)
 
 * 위의 예제에서 Application Object, Actuator Object, Global Variable Object 를 2단계 가시성을 갖는 모듈로 설계해 보세요.
 
     * Global Variable로 자료를 교환하는 경우
 
     * Interface Function을 사용하는 경우 (Get, Set 함수 이용)
-
-        
-
-
