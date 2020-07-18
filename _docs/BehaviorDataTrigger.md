@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Behavior, data, trigger
-parent: SW arch design
-nav_order: 3
+title: Behavior, Data, Trigger
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [arch]
+author: wootaik
 ---
 
 # 동작과 자료, 그리고 트리거

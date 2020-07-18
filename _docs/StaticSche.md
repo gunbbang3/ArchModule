@@ -1,8 +1,8 @@
 ---
-layout: default
 title: Scheduling
-parent: SW arch design
-nav_order: 4
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [arch]
+author: wootaik
 ---
 
 # 운영체계와 스케쥴링

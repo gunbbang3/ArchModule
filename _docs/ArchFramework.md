@@ -1,8 +1,8 @@
 ---
-layout: default
-title: SW arch framework
-parent: SW arch design
-nav_order: 1
+title: sw Arch Framework
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [arch]
+author: wootaik
 ---
 
 # 소프트웨어 구조와 프래임워크

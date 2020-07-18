@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Micom features
-parent: SW arch design
-nav_order: 2
+title: Micom Features
+subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+tags: [arch]
+author: wootaik
 ---
 
 
