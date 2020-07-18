@@ -1,8 +1,8 @@
 ---
 title: Library design example
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: Subtitle 자리 입니다.
 tags: [module]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 라이브러리 예제

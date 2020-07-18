@@ -1,8 +1,8 @@
 ---
 title: SW Arch Framework
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: sub title 자리 입니다.
 tags: [arch]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 소프트웨어 구조와 프래임워크

@@ -1,8 +1,8 @@
 ---
 title: Behavior, Data, Trigger
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: Subtitle 자리 입니다.
 tags: [arch]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 동작과 자료, 그리고 트리거

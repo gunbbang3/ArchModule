@@ -1,8 +1,8 @@
 ---
 title: Scope and life time
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: SubTitle 자리 입니다.
 tags: [module]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 변수/함수의 Scope 와 Life-time

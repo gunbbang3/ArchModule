@@ -1,8 +1,8 @@
 ---
 title: Micom Features
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: SubTitle 자리입니다.
 tags: [arch]
-author: wootaik
+author: Wootaik Lee
 ---
 
 

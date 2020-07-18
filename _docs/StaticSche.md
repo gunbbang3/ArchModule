@@ -1,8 +1,8 @@
 ---
 title: Scheduling
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: SubTitle 자리 입니다.
 tags: [arch]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 운영체계와 스케쥴링

@@ -1,8 +1,8 @@
 ---
 title: Header include structure
-subtitle: Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis.
+subtitle: Subtitle 자리 입니다.
 tags: [module]
-author: wootaik
+author: Wootaik Lee
 ---
 
 # 헤더파일의 인클루드 구조
