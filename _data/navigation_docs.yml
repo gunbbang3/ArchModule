@@ -3,23 +3,15 @@
   - ModularProgramming
   - CodeTemplate
   - Includes
-  - LibExample
   - ScopeLifeTime
+  - LibExample
 
 - title: SW Arch Design
   docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
+  - ArchFramework
+  - BehaviorDataTrigger
+  - StaticSche
+  - uControllerFeatures
 
 - title: Customization
   docs:
