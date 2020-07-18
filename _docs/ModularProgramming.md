@@ -224,9 +224,7 @@ author: wootaik
     * 인터페이스 함수
 
 
-
-{% include image.html img="ModularProgramming-DataSharing.svg" alt="Alt for image" caption="ModularProgramming-DataSharing" %}
-
+![ModularProgramming-DataSharing](/assets/images/ModularProgramming-DataSharing.svg)
 
 
 * `ErrorCode` in Application Object
@@ -249,12 +247,10 @@ author: wootaik
 
 
 ### 예제
-{% include image.html img="ModularProgramming-MoBeE_AppModule.svg" alt="Alt for image" caption="ModularProgramming-MoBeE_AppModule" %}
-
-![ModularProgramming-MoBeE_AppModule](/assets/img/ModularProgramming-MoBeE_AppModule.svg)
+![ModularProgramming-MoBeE_AppModule](/assets/images/ModularProgramming-DataSharing.svg)
 
 ### Exercise
-{% include image.html img="ModularProgramming-DataSharing.svg" alt="Alt for image" caption="ModularProgramming-DataSharing" %}
+![ModularProgramming-DataSharing](/assets/images/ModularProgramming-DataSharing.svg)
 
 
 * 위의 예제에서 Application Object, Actuator Object, Global Variable Object 를 2단계 가시성을 갖는 모듈로 설계해 보세요.
